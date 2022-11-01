@@ -1,0 +1,675 @@
+2022-02-18 10:26:44,788 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 10:26:44,878 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 10:26:45,456 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 10:27:18,068 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 10:27:18,213 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 10:27:18,786 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 10:32:54,881 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 10:32:54,987 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 10:32:55,564 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 10:45:10,614 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 10:45:10,721 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 10:45:11,292 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 10:48:59,719 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 10:48:59,825 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 10:49:00,399 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 11:02:15,542 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 11:02:15,673 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 11:02:16,295 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 11:02:18,361 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 11:05:05,069 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 11:05:05,225 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 11:05:05,827 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 11:05:07,887 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 11:05:10,004 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 11:05:41,784 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 11:05:41,957 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 11:05:42,587 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 11:05:44,675 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 11:05:46,786 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 11:07:54,566 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 11:07:54,704 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 11:07:55,315 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 11:07:57,387 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 11:07:59,497 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 11:08:01,592 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 11:08:01,663 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 11:08:02,727 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 11:08:02,789 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 11:08:02,932 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 11:08:39,620 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 11:08:39,760 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 11:08:40,358 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 11:08:42,414 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 11:08:44,517 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 11:08:46,589 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 11:08:46,658 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 11:08:47,732 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 11:08:47,795 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 11:08:47,931 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:15:06,005 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:15:06,113 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:15:06,697 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:15:08,760 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:15:10,856 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:15:12,933 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:15:12,979 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:15:14,036 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:15:14,082 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:15:14,152 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:16:23,014 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:16:23,109 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:16:23,689 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:16:25,744 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:16:27,837 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:16:29,916 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:16:29,963 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:16:31,039 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:16:31,091 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:16:31,170 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:16:33,257 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:16:34,357 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 13:19:45,509 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:19:45,621 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:19:46,224 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:19:48,291 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:19:50,380 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:19:52,446 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:19:52,486 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:19:53,553 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:19:53,600 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:19:53,664 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:23:04,591 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:23:04,682 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:23:05,275 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:23:07,332 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:23:09,415 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:23:11,491 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:23:11,532 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:23:12,603 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:23:12,650 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:23:12,711 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:23:15,790 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:23:46,781 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:23:46,880 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:23:47,485 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:23:49,541 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:23:51,615 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:23:53,682 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:23:53,733 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:23:54,797 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:23:54,839 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:23:54,906 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:23:57,988 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:23:59,076 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 13:24:35,997 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:24:36,099 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:24:36,683 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:24:38,761 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:24:40,849 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:24:42,917 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:24:42,954 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:24:44,010 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:24:44,052 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:24:44,116 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:24:47,192 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:24:48,277 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 13:24:50,369 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 13:24:51,431 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 13:24:52,499 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 13:24:53,579 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 13:24:54,638 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 13:24:58,730 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 13:29:46,440 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:29:46,551 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:29:47,146 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:29:49,216 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:29:51,316 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:29:53,386 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:29:53,439 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:29:54,504 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:29:54,557 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:29:54,628 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:29:57,718 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:29:58,812 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 13:30:00,896 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 13:30:01,970 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 13:30:03,046 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 13:30:04,137 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 13:30:05,216 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 13:30:09,307 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 13:30:11,403 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 13:30:13,476 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmobnopage_XPATH
+2022-02-18 13:31:59,809 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:31:59,902 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:32:00,480 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:32:02,563 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:32:04,647 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:32:06,710 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:32:06,749 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:32:07,813 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:32:07,861 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:32:07,934 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:32:11,007 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:32:12,103 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 13:32:14,208 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 13:32:15,288 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 13:32:16,359 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 13:32:17,435 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 13:32:18,509 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 13:32:22,604 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 13:32:24,708 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 13:32:26,783 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmobnopage_XPATH
+2022-02-18 13:38:29,115 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:38:29,218 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:38:29,795 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:38:31,869 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:38:33,948 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:38:36,021 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:38:36,059 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:38:37,117 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:38:37,161 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:38:37,231 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:38:40,287 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:38:41,383 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 13:38:43,469 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 13:38:44,537 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 13:38:45,613 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 13:38:46,680 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 13:38:47,741 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 13:38:51,832 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 13:38:53,926 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 13:38:56,001 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 13:48:16,268 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 13:48:16,376 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 13:48:16,982 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 13:48:19,055 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 13:48:21,152 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 13:48:23,230 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 13:48:23,266 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 13:48:24,320 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 13:48:24,368 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 13:48:24,446 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 13:48:27,507 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 13:48:28,587 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 13:48:30,678 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 13:48:31,756 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 13:48:32,831 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 13:48:33,910 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 13:48:34,983 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 13:48:39,081 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 13:48:41,197 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 13:48:43,261 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 13:48:43,845 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 13:59:03,979 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 14:02:52,371 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 14:02:52,461 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 14:02:53,068 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 14:02:55,131 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 14:02:57,205 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 14:02:59,273 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 14:02:59,313 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 14:03:00,381 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 14:03:00,430 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 14:03:00,496 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 14:03:03,580 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 14:03:04,679 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 14:03:06,777 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 14:03:07,861 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 14:03:08,931 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 14:03:10,008 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 14:03:11,085 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 14:03:15,179 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 14:03:17,266 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 14:03:19,342 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 14:03:19,938 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 14:17:49,039 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 14:17:49,156 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 14:17:49,773 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 14:17:51,835 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 14:17:53,916 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 14:17:55,993 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 14:17:56,031 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 14:17:57,091 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 14:17:57,138 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 14:17:57,220 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 14:18:00,294 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 14:18:01,387 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 14:18:03,477 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 14:18:04,547 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 14:18:05,627 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 14:18:06,687 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 14:18:07,762 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 14:18:11,841 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 14:18:13,917 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 14:18:15,992 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 14:18:16,586 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 14:21:34,677 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 14:21:34,794 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 14:21:35,371 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 14:21:37,424 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 14:21:39,534 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 14:21:41,610 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 14:21:41,647 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 14:21:42,704 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 14:21:42,748 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 14:21:42,819 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 14:21:45,889 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 14:21:46,970 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 14:21:49,064 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 14:21:50,132 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 14:21:51,200 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 14:21:52,270 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 14:21:53,348 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 14:21:57,436 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 14:21:59,527 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 14:22:01,604 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 14:22:02,204 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 14:47:09,423 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 14:47:09,547 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 14:47:10,150 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 14:47:12,218 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 14:47:14,319 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 14:47:16,385 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 14:47:16,426 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 14:47:17,501 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 14:47:17,541 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 14:47:17,618 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 14:47:20,687 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 14:47:21,780 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 14:47:23,870 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 14:47:24,938 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 14:47:26,014 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 14:47:27,096 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 14:47:28,178 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 14:47:32,268 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 14:47:34,351 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 14:47:36,421 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 14:47:37,007 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 14:50:19,061 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 14:50:19,169 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 14:50:19,747 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 14:50:21,805 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 14:50:23,882 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 14:50:25,956 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 14:50:26,006 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 14:50:27,069 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 14:50:27,121 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 14:50:27,193 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 14:50:30,283 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 14:50:31,363 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 14:50:33,448 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 14:50:34,521 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 14:50:35,604 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 14:50:36,667 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 14:50:37,742 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 14:50:41,818 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 14:50:43,913 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 14:50:45,989 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 14:50:46,595 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 15:52:38,144 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 15:52:38,252 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 15:52:38,841 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 15:52:40,909 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 15:52:43,000 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 15:52:45,070 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 15:52:45,121 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 15:52:46,187 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 15:52:46,229 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 15:52:46,296 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 15:52:49,367 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 15:52:50,452 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 15:52:52,542 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 15:52:53,613 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 15:52:54,689 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 15:52:55,765 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 15:52:56,836 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 15:53:00,933 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 15:53:03,008 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 15:53:05,078 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 15:53:05,663 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 15:53:49,601 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 15:53:49,713 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 15:53:50,299 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 15:53:52,366 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 15:53:54,437 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 15:53:56,506 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 15:53:56,543 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 15:53:57,599 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 15:53:57,643 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 15:53:57,710 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 15:54:00,783 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 15:54:01,881 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 15:54:03,968 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 15:54:05,040 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 15:54:06,130 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 15:54:07,212 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 15:54:08,273 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 15:54:12,357 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 15:54:14,431 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 15:54:16,510 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 15:54:20,141 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 15:59:04,625 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 15:59:04,717 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 15:59:05,319 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 15:59:07,385 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 15:59:09,467 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 15:59:11,536 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 15:59:11,572 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 15:59:12,627 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 15:59:12,674 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 15:59:12,735 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 15:59:15,813 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 15:59:16,896 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 15:59:18,983 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 15:59:20,054 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 15:59:21,125 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 15:59:22,206 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 15:59:23,274 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 15:59:27,366 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 15:59:29,453 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 15:59:31,517 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 15:59:35,140 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 15:59:37,207 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 15:59:39,273 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 15:59:41,400 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 15:59:41,521 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 15:59:41,607 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 15:59:42,695 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 16:00:11,921 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 16:00:12,026 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 16:00:12,595 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 16:00:14,670 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 16:00:16,752 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 16:00:18,827 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 16:00:18,879 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 16:00:19,935 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 16:00:19,977 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 16:00:20,053 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 16:00:23,123 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 16:00:24,198 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 16:00:26,298 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 16:00:27,360 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 16:00:28,428 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 16:00:29,503 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 16:00:30,561 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 16:00:34,651 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 16:00:36,719 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 16:00:38,790 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 16:00:45,381 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 16:00:47,446 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 16:00:49,529 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 16:00:51,682 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 16:00:51,854 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 16:00:51,980 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 16:00:53,051 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 16:01:19,426 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 16:01:19,526 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 16:01:20,125 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 16:01:22,193 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 16:01:24,286 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 16:01:26,362 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 16:01:26,411 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 16:01:27,485 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 16:01:27,560 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 16:01:27,658 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 16:01:30,745 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 16:01:31,845 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 16:01:33,956 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 16:01:35,037 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 16:01:36,093 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 16:01:37,179 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 16:01:38,258 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 16:01:42,359 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 16:01:44,467 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 16:01:46,545 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 16:01:57,187 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 16:01:59,264 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 16:02:01,349 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 16:02:03,498 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 16:02:03,683 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 16:02:03,797 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 16:02:04,888 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:04:34,849 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 17:04:34,956 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 17:04:35,543 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 17:04:37,601 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 17:04:39,685 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 17:04:41,764 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 17:04:41,803 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 17:04:42,869 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 17:04:42,919 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 17:04:42,990 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 17:04:46,064 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 17:04:47,159 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 17:04:49,257 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 17:04:50,337 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 17:04:51,411 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 17:04:52,485 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 17:04:53,562 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 17:04:57,649 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 17:04:59,714 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 17:05:01,780 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 17:05:12,388 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 17:05:14,441 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 17:05:16,503 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 17:05:18,658 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:05:18,845 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 17:05:18,972 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 17:05:20,037 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:12:33,395 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 17:12:33,504 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 17:12:34,083 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 17:12:36,142 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 17:12:38,222 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 17:12:40,290 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 17:12:40,329 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 17:12:41,385 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 17:12:41,425 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 17:12:41,494 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 17:12:44,560 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 17:12:45,659 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 17:12:47,746 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 17:12:48,811 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 17:12:49,873 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 17:12:50,962 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 17:12:52,030 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 17:12:56,109 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 17:12:58,196 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 17:13:00,267 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 17:13:10,860 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 17:13:12,934 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 17:13:15,021 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 17:13:17,182 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:13:17,373 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 17:13:17,502 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 17:13:18,585 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:16:25,012 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 17:16:25,129 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 17:16:25,749 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 17:16:27,814 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 17:16:29,905 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 17:16:31,980 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 17:16:32,023 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 17:16:33,090 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 17:16:33,134 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 17:16:33,201 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 17:16:36,259 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 17:16:37,348 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 17:16:39,440 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 17:16:40,518 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 17:16:41,599 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 17:16:42,667 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 17:16:43,740 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 17:16:47,825 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 17:16:49,913 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 17:16:51,975 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 17:17:02,582 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 17:17:04,656 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 17:17:06,731 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 17:17:08,899 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:17:09,081 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 17:17:09,205 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 17:17:10,282 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:17:15,362 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectcomprehensive_XPATH
+2022-02-18 17:18:53,225 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 17:18:53,336 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 17:18:53,948 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 17:18:56,016 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 17:18:58,107 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 17:19:00,172 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 17:19:00,210 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 17:19:01,268 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 17:19:01,312 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 17:19:01,377 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 17:19:04,437 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 17:19:05,520 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 17:19:07,605 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 17:19:08,659 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 17:19:09,734 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 17:19:10,799 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 17:19:11,864 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 17:19:15,945 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 17:19:18,040 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 17:19:20,105 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 17:19:30,729 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 17:19:32,814 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 17:19:34,895 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 17:19:37,043 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:19:37,221 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 17:19:37,348 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 17:19:38,412 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:19:43,482 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectcomprehensive_XPATH
+2022-02-18 17:19:45,704 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwproposalinfopage_XPATH
+2022-02-18 17:30:28,192 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 17:30:28,275 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 17:30:28,843 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 17:30:30,902 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 17:30:32,981 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 17:30:35,038 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 17:30:35,076 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 17:30:36,131 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 17:30:36,172 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 17:30:36,232 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 17:30:39,287 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 17:30:40,367 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 17:30:42,448 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 17:30:43,520 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 17:30:44,600 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 17:30:45,674 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 17:30:46,747 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 17:30:50,845 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 17:30:52,939 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 17:30:55,013 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 17:31:05,649 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 17:31:07,714 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 17:31:09,790 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 17:31:11,945 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:31:12,132 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 17:31:12,257 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 17:31:13,333 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:31:18,403 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectcomprehensive_XPATH
+2022-02-18 17:31:21,106 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwproposalinfopage_XPATH
+2022-02-18 17:33:21,492 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 17:33:21,602 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 17:33:22,209 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 17:33:24,279 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 17:33:26,360 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 17:33:28,428 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 17:33:28,465 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 17:33:29,525 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 17:33:29,569 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 17:33:29,644 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 17:33:32,719 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 17:33:33,806 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 17:33:35,883 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 17:33:36,960 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 17:33:38,043 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 17:33:39,114 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 17:33:40,174 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 17:33:44,258 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 17:33:46,339 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 17:33:48,409 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 17:33:59,033 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 17:34:01,121 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 17:34:03,211 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 17:34:05,385 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:34:05,571 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 17:34:05,690 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 17:34:06,772 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:34:11,850 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectcomprehensive_XPATH
+2022-02-18 17:34:14,054 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwproposalinfopage_XPATH
+2022-02-18 17:34:17,155 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclregno_XPATH entered the value as : KA01J9077
+2022-02-18 17:34:17,228 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclenggno_XPATH entered the value as : 8659741
+2022-02-18 17:34:17,323 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclchssno_XPATH entered the value as : AMHPC9725D8654789
+2022-02-18 17:34:17,381 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclownershipdropdown_XPATH
+2022-02-18 17:34:18,475 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclownershipoption_XPATH
+2022-02-18 17:34:19,551 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfinancedropdown_XPATH
+2022-02-18 17:34:20,633 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfinanceoption_XPATH
+2022-02-18 17:34:21,720 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclfinanciername_XPATH entered the value as : bajaj
+2022-02-18 17:34:21,778 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfintypedropdown_XPATH
+2022-02-18 17:34:22,836 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfintypeoption_XPATH
+2022-02-18 17:37:36,541 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-02-18 17:37:36,649 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-02-18 17:37:37,255 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectbrand_XPATH
+2022-02-18 17:37:39,321 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-02-18 17:37:41,411 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd
+2022-02-18 17:37:43,488 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-02-18 17:37:43,529 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-02-18 17:37:44,590 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-02-18 17:37:44,639 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-02-18 17:37:44,705 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-02-18 17:37:47,772 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-02-18 17:37:48,849 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-02-18 17:37:50,931 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-02-18 17:37:52,009 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-02-18 17:37:53,084 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-02-18 17:37:54,148 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-02-18 17:37:55,221 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-02-18 17:37:59,309 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-02-18 17:38:01,406 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-02-18 17:38:03,469 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-02-18 17:38:14,108 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-02-18 17:38:16,185 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-02-18 17:38:18,271 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-02-18 17:38:20,425 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:38:20,613 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-02-18 17:38:20,735 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 9836680067
+2022-02-18 17:38:21,812 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-02-18 17:38:26,887 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwselectcomprehensive_XPATH
+2022-02-18 17:38:29,087 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwproposalinfopage_XPATH
+2022-02-18 17:38:32,194 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclregno_XPATH entered the value as : KA01J9077
+2022-02-18 17:38:32,269 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclenggno_XPATH entered the value as : 8659741
+2022-02-18 17:38:32,364 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclchssno_XPATH entered the value as : AMHPC9725D8654789
+2022-02-18 17:38:32,422 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclownershipdropdown_XPATH
+2022-02-18 17:38:33,477 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclownershipoption_XPATH
+2022-02-18 17:38:34,552 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfinancedropdown_XPATH
+2022-02-18 17:38:35,619 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfinanceoption_XPATH
+2022-02-18 17:38:36,719 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwvhclfinanciername_XPATH entered the value as : bajaj
+2022-02-18 17:38:36,774 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfintypedropdown_XPATH
+2022-02-18 17:38:37,836 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwvhclfintypeoption_XPATH
+2022-02-18 17:38:38,912 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpucdropdown_XPATH
+2022-02-18 17:38:39,975 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwpucoption_XPATH
+2022-02-18 17:38:41,055 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwpucnumber_XPATH entered the value as : 569845
+2022-02-18 17:38:41,144 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwpucexpdatepicker_XPATH entered the value as : 1/4/2023
+2022-02-18 17:38:41,219 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwprevinscomdropdown_XPATH
+2022-02-18 17:38:42,287 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwprevinscomoption_XPATH
+2022-02-18 17:38:43,358 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwprevpoltypedropdown_XPATH
+2022-02-18 17:38:44,429 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwprevpoltypeoption_XPATH
+2022-02-18 17:38:45,530 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwprevpolnumber_XPATH entered the value as : 89657456
+2022-02-18 17:38:45,595 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwnomineename_XPATH entered the value as : testnom
+2022-02-18 17:38:45,654 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwnomineeage_XPATH entered the value as : 30
+2022-02-18 17:38:45,722 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwnomineerltndropdown_XPATH
+2022-02-18 17:38:46,797 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwnomineerltnoption_XPATH
+2022-02-18 17:38:47,875 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwcpacoverdropdown_XPATH
+2022-02-18 17:38:48,960 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwcpacoveroption_XPATH
+2022-02-18 17:38:50,028 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwcustomertitledropdown_XPATH
+2022-02-18 17:38:51,097 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwcustomertitleoption_XPATH
+2022-02-18 17:38:52,218 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwcustomername_XPATH entered the value as : apratim chaudhuri
+2022-02-18 17:38:52,284 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwcustomergenderdropdown_XPATH
+2022-02-18 17:38:53,353 - BasePage.py:[27] - [INFO] - Clicking on an Element RSAtwcustomergenderoption_XPATH
+2022-02-18 17:38:54,467 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwcustomerpan_XPATH entered the value as : AMHPC9725D
+2022-02-18 17:38:54,546 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwcustomeraadhar_XPATH entered the value as : 589654783214
+2022-02-18 17:38:54,599 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwcustomeradd1_XPATH entered the value as : GD
+2022-02-18 17:38:54,653 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwcustomeradd2_XPATH entered the value as : FE
+2022-02-18 17:38:54,723 - BasePage.py:[60] - [INFO] - Typing in an Element RSAtwcustomerpin_XPATH entered the value as : 560008
